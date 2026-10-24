@@ -1,7 +1,8 @@
 {
   "name": "content-mill-x",
+  "displayName": "X by Content Mill",
   "description": "Schedule and publish X (Twitter) posts from chat: write tweets within the 280-character limit, attach images, preview each post, and track what's scheduled or published. X scheduler by Content Mill.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": {
     "name": "Content Mill",
     "email": "support@contentmill.dev",
