@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5
+
+- Listing name: `displayName` is "X (Twitter) by Content Mill".
+
 ## 0.1.4
 
 - Listing name: `displayName` is "X by Content Mill".
